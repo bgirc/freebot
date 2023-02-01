@@ -3,7 +3,7 @@
 
 Вие можете да програмирате? Искате да станете част от весел и усмихнат екип? Пишете ни в канал #Freebot!
 
-Webchat: https://webchat.realchat.eu
+Webchat: https://chat.freebot.ovh
 
 Site: https://freebot.ovh
 
@@ -12,6 +12,6 @@ A free and volunteer group of people who make free bots for free use by all BGIR
 
 Can you program? Do you want to become part of a cheerful and smiling team? Write to us in the #Freebot channel!
 
-Webchat: https://webchat.realchat.eu
+Webchat: https://chat.freebot.ovh
 
 Site: https://freebot.ovh
