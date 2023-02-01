@@ -6,3 +6,12 @@
 Webchat: https://webchat.realchat.eu
 
 Site: https://freebot.ovh
+
+# #FreeBot Project @ BGIRC Network
+A free and volunteer group of people who make free bots for free use by all BGIRC Network users!
+
+Can you program? Do you want to become part of a cheerful and smiling team? Write to us in the #Freebot channel!
+
+Webchat: https://webchat.realchat.eu
+
+Site: https://freebot.ovh
