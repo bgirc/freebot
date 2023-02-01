@@ -4,3 +4,5 @@
 Вие можете да програмирате? Искате да станете част от весел и усмихнат екип? Пишете ни в канал #Freebot!
 
 Webchat: https://webchat.realchat.eu
+
+Site: https://freebot.ovh
